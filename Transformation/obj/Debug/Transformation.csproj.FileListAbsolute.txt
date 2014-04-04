@@ -1,0 +1,12 @@
+C:\Projects\Transformation\Transformation\bin\Debug\Transformation.exe.config
+C:\Projects\Transformation\Transformation\bin\Debug\Transformation.exe.manifest
+C:\Projects\Transformation\Transformation\bin\Debug\Transformation.application
+C:\Projects\Transformation\Transformation\bin\Debug\Transformation.exe
+C:\Projects\Transformation\Transformation\bin\Debug\Transformation.pdb
+C:\Projects\Transformation\Transformation\obj\Debug\Transformation.Form1.resources
+C:\Projects\Transformation\Transformation\obj\Debug\Transformation.Properties.Resources.resources
+C:\Projects\Transformation\Transformation\obj\Debug\Transformation.csproj.GenerateResource.Cache
+C:\Projects\Transformation\Transformation\obj\Debug\Transformation.exe.manifest
+C:\Projects\Transformation\Transformation\obj\Debug\Transformation.application
+C:\Projects\Transformation\Transformation\obj\Debug\Transformation.exe
+C:\Projects\Transformation\Transformation\obj\Debug\Transformation.pdb

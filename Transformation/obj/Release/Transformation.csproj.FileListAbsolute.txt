@@ -1,0 +1,13 @@
+C:\Projects\Transformation\Transformation\bin\Release\Transformation.exe.config
+C:\Projects\Transformation\Transformation\bin\Release\Transformation.exe.manifest
+C:\Projects\Transformation\Transformation\bin\Release\Transformation.application
+C:\Projects\Transformation\Transformation\bin\Release\Transformation.exe
+C:\Projects\Transformation\Transformation\bin\Release\Transformation.pdb
+C:\Projects\Transformation\Transformation\obj\Release\Transformation.Form1.resources
+C:\Projects\Transformation\Transformation\obj\Release\Transformation.Properties.Resources.resources
+C:\Projects\Transformation\Transformation\obj\Release\Transformation.csproj.GenerateResource.Cache
+C:\Projects\Transformation\Transformation\obj\Release\Transformation.exe.manifest
+C:\Projects\Transformation\Transformation\obj\Release\Transformation.application
+C:\Projects\Transformation\Transformation\obj\Release\Transformation.exe
+C:\Projects\Transformation\Transformation\obj\Release\Transformation.pdb
+C:\Projects\Transformation\Transformation\obj\Release\Transformation.csprojResolveAssemblyReference.cache
